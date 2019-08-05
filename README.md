@@ -6,9 +6,9 @@ Usage of Pipelines to transform  the data for Linear and non-Parametric models.
 As Linear models require the data the to be normalised and Non-Parametric models do better without normalization, it was imperative that there
 were two different datasets one for linear models and the other  for non-Parametric models.
 
-Models used:
+Models used
 
-1) Decision Tree Models
+1) Decision Tree Models:
 
 a) Decision Tree Regression
   
