@@ -6,14 +6,23 @@ As Linear models require the data the to be normalised and Non-Parametric models
 were two different datasets one for linear models and the other  for non-Parametric models.
 
 Models used:
+
 1) Decision Tree Models
+
   a) Decision Tree Regression
+  
   b) Random Forrest Regressor
+  
   c)Gradient Boosted Regression 
+  
 2)Linear Models:
+
   a) Lasso regression
+  
   b) Ridge regression
+  
   c) ElasticNet regression
+  
   d) Support Vector regression
 
 Hyper parameter optimization using GridSearchCV and RandomizedSearchCV
